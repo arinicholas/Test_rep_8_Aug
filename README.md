@@ -1,5 +1,6 @@
 # Test_rep_8_Aug_PRATICE SANDPIT
-A practice repository for 394 Group Project for group 11
+## A practice repository for 394 Group Project for group 11
+TEST EDIT OF THE README FILE
 
 Team Members:
 * Ken MacIver
