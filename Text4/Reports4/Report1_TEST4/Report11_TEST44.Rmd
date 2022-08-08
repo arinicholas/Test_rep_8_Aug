@@ -28,7 +28,7 @@ library(ggstance)
 
 ## Introduction
 
-We report on the dataset we have selected for our Group Project. It contains data on althetes from different sports. There are two categorical variables, 'Gender' and 'Sport', and seven continuous variables which are: weight, height, body mass index (BMI) etc, etc. 
+We report on the dataset we have selected for our Group Project. It contains data on athletes from different sports. There are two categorical variables, 'Gender' and 'Sport', and seven continuous variables which are: weight, height, body mass index (BMI) etc, etc. 
 
 ## Platform and Data
 
@@ -75,4 +75,4 @@ Display scatterplots of all the variables against each other.
 plot(sports)
 ```
 
-
+## Testing 
